@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins',sans-serif;
+}
+section{
+    display: flex;
+    min-height: 100vh;
+    width: 100%;
+    
+    background: url('bg1.jpg')no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.form-box{
+    position: relative;
+    width: 300px;
+    height: 785px;
+    background: transparent;
+    border: 2px solid rgba(255,255,255,0.5);
+    border-radius: 20px;
+    backdrop-filter: blur(15px);
+    display: flex;
+}
+header{
+    font-size: 2em;
+	font-family: "copperplate", fantasy;
+    color: #fff;
+	padding: 10px;
+	padding-left: 45px;
+}
+.name{
+	color: white;
+}
+.snum{
+	color: white;
+}
+.yearsec{
+	color: white;
+}
+.info button{
+	width: 112%;
+    height: 40px;
+    border-radius: 40px;
+    background: #fff;
+
+    cursor: pointer;
+    font-size: 1.5em;
+    font-weight: 600;
+}
+.grades button{
+	width: 112%;
+    height: 40px;
+    border-radius: 40px;
+    background: #fff;
+
+    cursor: pointer;
+    font-size: 1.5em;
+    font-weight: 600;
+}
+.sched button{
+	width: 112%;
+    height: 40px;
+    border-radius: 40px;
+    background: #fff;
+
+    cursor: pointer;
+    font-size: 1.5em;
+    font-weight: 600;
+}
+.acct button{
+	width: 112%;
+    height: 40px;
+    border-radius: 40px;
+    background: #fff;
+
+    cursor: pointer;
+    font-size: 1.5em;
+    font-weight: 600;
+}
+.req button{
+	width: 112%;
+    height: 40px;
+    border-radius: 40px;
+    background: #fff;
+
+    cursor: pointer;
+    font-size: 1.5em;
+    font-weight: 600;
+}
+.semsched button{
+	width: 112%;
+    height: 40px;
+    border-radius: 40px;
+    background: #fff;
+
+    cursor: pointer;
+    font-size: 1.5em;
+    font-weight: 600;
+}
+.watermark {
+	text-align: left;
+}
+.creditbox{
+	padding-top: 765px;
+	padding-left: 800px;
+    color: white;
+}
