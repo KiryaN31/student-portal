@@ -7,7 +7,7 @@
     <section>
 	<?php
 	$f1=$_POST
-	?>
+	
         <div class="form-box">
             <div class="form-value">
 				<header>STUDENT PORTAL</header><br>
@@ -51,7 +51,7 @@
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 	
- 
+  ?>
 </body>
 </html>
 
